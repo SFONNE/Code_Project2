@@ -1,0 +1,17 @@
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\DataBaseFirebase.exe.config
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\DataBaseFirebase.exe
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\DataBaseFirebase.pdb
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\FireSharp.dll
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\RestSharp.dll
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\bin\Debug\RestSharp.xml
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.csproj.AssemblyReference.cache
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.Form1.resources
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.Properties.Resources.resources
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.csproj.GenerateResource.cache
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.csproj.CoreCompileInputs.cache
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.csproj.CopyComplete
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.exe
+C:\Users\PosIT\Desktop\C#program\DataBase\DataBaseFirebase\DataBaseFirebase\obj\Debug\DataBaseFirebase.pdb
